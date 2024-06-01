@@ -1,0 +1,71 @@
+.container {
+    width: 100vw;
+}
+.row {
+    display: flex;
+}
+.f-wrap {
+    flex-wrap: wrap;
+}
+.j-c-s-b {
+    justify-content: space-between;
+}
+.j-c-s-a {
+    justify-content: space-around;
+}
+.j-c-s-e {
+    justify-content: space-evenly;
+}
+.j-c-c {
+    justify-content: center;
+}
+.j-c-e {
+    justify-content: end;
+}
+.a-i-c {
+    align-items: center;
+}
+.pos-fexid {
+    position: fixed;
+    margin: 2% auto;
+}
+.text-c {
+    text-align: center;
+}
+.m-auto {
+    margin: 0 auto;
+}
+
+/* height vh */
+.vh-60 {
+    height: 60vh;
+}
+.vh-80 {
+    height: 80vh;
+}
+.vh-90 {
+    height: 90vh;
+}
+
+/* cols */
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+/* bg-colors */
+.bg1 {
+    background-color: antiquewhite;
+    border: 1px solid orchid;
+}
+.bg2 {
+    background-color: rgb(230, 130, 0);
+    border: 1px solid rgb(255, 0, 247);
+}
